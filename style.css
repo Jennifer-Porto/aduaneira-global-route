@@ -128,10 +128,10 @@ nav {
 }
 
 .hero-subtitle {
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 300;
     line-height: 1.8;
-    color: rgba(255,255,255,0.55);
+    color: rgba(255, 255, 255, 0.705);
     max-width: 480px;
     margin-bottom: 56px;
     opacity: 0;
@@ -191,7 +191,8 @@ nav {
     margin: 0 auto
 }
 
-.stat-item { text-align: right; }
+.stat-item { 
+    text-align: right; }
 
 .stat-number {
     font-family: var(--serif);
@@ -202,10 +203,10 @@ nav {
 }
 
 .stat-label {
-    font-size: 11px;
+    font-size: 14px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: rgba(255,255,255,0.4);
+    color: rgba(255, 255, 255, 0.705);
     margin-top: 6px;
 }
 
